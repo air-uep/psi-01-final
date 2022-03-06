@@ -1,1 +1,2 @@
-# psi-01-final
+# Zajęcia 1: Klasy i obiekty
+Kod źródłowy - wersja ostateczna
